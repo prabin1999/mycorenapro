@@ -19,6 +19,15 @@
 p{
   font-size: 15px;
 }
+    .nav-fungi .nav-link {
+        transition: all 0.3s ease;
+    }
+
+    .nav-fungi .nav-link:hover {
+        color: #969696 !important; 
+        text-decoration: underline; 
+        background-color: rgb(12, 42, 0); 
+    
 @media (max-width: 320px) {
   footer h6 {
     font-size: 1rem;
